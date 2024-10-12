@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConsumoCombustivel</string>
+    <string name="author">Gustavo de Paula 1110482313003</string>
+    <string name="etAutonomia">Autonomia do carro</string>
+    <string name="etQuantidade">Combustivel restante</string>
+    <string name="btnCalc">Calcular</string>
+    <string name="resultado">Restante:</string>
+</resources>
